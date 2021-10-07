@@ -1,0 +1,16 @@
+<shapes name="mxGraph.testlib">
+    <shape name="Inversed And" w="60" h="80">
+        <background>
+            <linejoin join="round"/>
+            <path>
+                <move x="60" y="0"/>
+                <quad x1="0" y1="0" x2="0" y2="40"/>
+                <quad x1="0" y1="80" x2="60" y2="80"/>
+                <close/>
+            </path>
+        </background>
+        <foreground>
+            <fillstroke/>
+        </foreground>
+    </shape>
+</shapes>
